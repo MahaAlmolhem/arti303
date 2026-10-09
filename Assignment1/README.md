@@ -10,8 +10,8 @@ The goal of this assignment is to compare **Pandas** with another Python data-pr
 
 | Name | Student ID | Role |
 |---|---|---|
-| Member 1 | XXXXXXXX | Leader |
-| Member 2 | XXXXXXXX | Member |
+| Maha Almolhem | 2230002421 | Leader |
+| Member | XXXXXXXX | Member |
 | Member 3 | XXXXXXXX | Member |
 | Member 4 | XXXXXXXX | Member |
 | Member 5 | XXXXXXXX | Member |
@@ -30,7 +30,7 @@ The group must choose **one public dataset** that meets all of the following req
 
 ### Dataset Link
 
-[Add your dataset link here](YOUR_DATASET_LINK)
+[Spotify Tracks Dataset](https://huggingface.co/datasets/mrciomnl/spotify_dataset)
 
 ##  Requirements
 
